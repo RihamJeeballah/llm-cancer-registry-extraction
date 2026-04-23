@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# Data files (IMPORTANT)
+*.csv
+*.xlsx
+*.tsv
+*.json
+outputs/
+results/
+
+# System
+.DS_Store
